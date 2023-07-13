@@ -1,0 +1,42 @@
+.content-section-b {
+    padding: 50px 0;
+    border-top: 1px solid #e7e7e7;
+    border-bottom: 1px solid #e7e7e7;
+    font-size: 18px;
+    letter-spacing: 0.5px;
+    font-weight: 400;
+    line-height: 30px;
+}
+.committee-person-name {
+    font-weight: 600;
+   
+}
+.col-lg-offset-12{margin-left:100%}
+.col-lg-offset-11{margin-left:91.66666667%}
+.col-lg-offset-10{margin-left:83.33333333%}
+.col-lg-offset-9{margin-left:75%}
+.col-lg-offset-8{margin-left:66.66666667%}
+.col-lg-offset-7{margin-left:58.33333333%}
+.col-lg-offset-6{margin-left:50%}
+.col-lg-offset-5{margin-left:41.66666667%}
+.col-lg-offset-4{margin-left:33.33333333%}
+.col-lg-offset-3{margin-left:25%}
+.col-lg-offset-2{margin-left:16.66666667%}
+.col-lg-offset-1{margin-left:8.33333333%}
+.col-lg-offset-0{margin-left:0}
+
+.content-section {
+    padding: 50px 0;
+    font-size: 18px;
+    letter-spacing: 0.5px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: justify;
+}
+
+.img-ns {
+    width: 80%;
+    margin-left: auto;
+    margin-right: 0;
+}
+
