@@ -125,5 +125,5 @@ border-radius: 3px 0 0 3px;
 .prev:hover,
 .next:hover {
   border-radius: 12px;
-  background-color: rgba(97, 0, 138, 0.726);
+  background-color: rgba(0, 44, 138, 0.726);
 }

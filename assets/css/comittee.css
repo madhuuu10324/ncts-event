@@ -11,7 +11,7 @@
     padding: 15px 20px;
     width: 970px;
     border-radius: 20px;
-    background-color: #5a0196;
+    background-color: #102baf;
     color: #fff;
 }
 
@@ -46,7 +46,7 @@
     vertical-align: middle;
 }
 .content:hover{
-    background-color:#8311cf;
+    background-color:#30526b;
     transition: all 0.35s ease 0s;;
     color:white;
     cursor: pointer;
